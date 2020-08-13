@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet">
+<script src="script.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href= "styles.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+<link rel="icon" href="ppp.png">
+  </head>
+
+<div>
+<div class="jumbotron text-center">
+<h1> No More Excuses </h1>
+<p>
+  <div>
+    <ul id="navigation">
+      <li><a class="active" href="home.html"  >Home</a></li>   <li><a href="aboutme.html" >About Me</a></li>   <li><a href="info.html">Info</a></li> <li><a href="diet.html" >Diet<a/></li>
+       <li><a href="resources.html" >Resources</a></li>
+      <li><a href="Fitnessplan.html" >Fitness plan</a></li>
+    </ul>
+
+
+        <p>
+      <img src="hg.jpg " width="395" height="300"> <img src="fd.jpg " width="395" height="300"> <img src="braincolor.jpg" width="395" height="300">
+    </p>
+      </div>
+      <h2>
+      Welcome to No More Excuses!
+    </h2>
+      <h2>
+        Your one stop page to everything Fitness and Health
+      </h2>
+    <h2>
+      In this website, you will have access to several of resources to change you're life and health , learn about healthy ways to change you're life , and even access some fitness plans! We want to help you reach your goals.
+      
